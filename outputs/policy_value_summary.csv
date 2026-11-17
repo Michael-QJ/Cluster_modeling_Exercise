@@ -1,0 +1,4 @@
+group,n_members,credit_recipients,baseline_net,v1_net,improvement
+train,231,46,-855,110,965
+test,99,24,-345,75,420
+all,330,70,-1200,185,1385

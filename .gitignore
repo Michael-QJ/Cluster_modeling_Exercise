@@ -153,7 +153,16 @@ activemq-data/
 .env
 .envrc
 .venv
+.venv/
 env/
+
+# Credentials
+credentials.json
+credentials.yaml
+credentials.yml
+*credentials*
+*.pem
+*.key
 venv/
 ENV/
 env.bak/
